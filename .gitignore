@@ -1,0 +1,13 @@
+/*
+!.gitignore
+
+Assets/Assets
+# Unity3D related
+!/Assets
+!/Readme.md
+/Assets/AssetStoreTools/
+!/ProjectSettings
+*.unitypackage
+
+# Mac-OSX related
+.DS_Store
